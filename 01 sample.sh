@@ -5,3 +5,6 @@ uname -a
 yum list installed
 
 uname -b
+
+uname -c
+
