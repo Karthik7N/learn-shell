@@ -1,3 +1,3 @@
 ls -ls
 uname -uname
-yum installed
+yum list installed
